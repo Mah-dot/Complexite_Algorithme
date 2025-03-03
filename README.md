@@ -1,4 +1,5 @@
 Examen  Python sur Complexite_Algorithme
-RANOMENJANAHARY 
-Mahery
-03-INFO L3-GLBD
+Nom : RANOMENJANAHARY 
+Prenom : Mahery
+Numero : 03 
+L3-INFORMATIQUE/GLBD
